@@ -1,3 +1,11 @@
+Danh sach thành viên:
+Nguyễn Phan Thanh Thủy 23521558
+Trần Thị Ngọc Như 24521279
+Nguyễn Ngọc Thanh 24521630
+Nguyễn Ngọc Thành 24521631
+
+
+
 ## Các lỗi syntax:
 1. Trong file customers.php 
 - if ($customer['active') --> if ($customer['active'])
